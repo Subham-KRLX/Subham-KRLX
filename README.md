@@ -45,9 +45,6 @@
 <h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">🔭 Open Source Contributions</h2>
 
 <div align="center">
-  <a href="https://github.com/microsoft/vscode">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  </a>
   <a href="https://github.com/microsoft/vscode-cpptools">
     <img src="https://img.shields.io/badge/VS_Code_CPP-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
