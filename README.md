@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5hZ2V4dWx5dW1jZzV5Y2R4Y3R5dGZ4eGxqN2V6bGJ6dWZ6eGJ5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600"/>
+</div>
+
+<div align="center">
   <h2 style="text-align: center;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C4FF&width=500&lines=Namaste%F0%9F%99%8F%2C+I'm+Subham+Sangwan;Full-Stack+Developer;Open+Source+Contributor;Competitive+Programmer" alt="Typing SVG" />
   </h2>
@@ -45,9 +49,6 @@
 <h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">🔭 Open Source Contributions</h2>
 
 <div align="center">
-  <a href="https://github.com/microsoft/vscode">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  </a>
   <a href="https://github.com/microsoft/vscode-cpptools">
     <img src="https://img.shields.io/badge/VS_Code_CPP-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
