@@ -4,7 +4,7 @@
   </h2>
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Subham-KRLX&theme=blueberry_duo&hide_border=true&background=0D1117" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Subham-KRLX&show_icons=true&theme=blueberry&hide_border=true&bg_color=0D1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Subham-KRLX&show_icons=true&theme=blueberry&hide_border=true&bg_color=0D1117&include_all_commits=true" width="48%"/>
 </div>
 
 <h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">🚀 Technologies & Tools</h2>
@@ -45,32 +45,38 @@
 <h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">🔭 Open Source Contributions</h2>
 
 <div align="center">
-  <a href="https://github.com/microsoft/vscode">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  </a>
-  <a href="https://github.com/microsoft/vscode-cpptools">
-    <img src="https://img.shields.io/badge/VS_Code_CPP-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  </a>
-  <a href="https://github.com/scribe-org/Scribe-iOS">
-    <img src="https://img.shields.io/badge/Scribe_iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  </a>
-  <a href="https://github.com/apache/sedona">
-    <img src="https://img.shields.io/badge/Apache_Sedona-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-  </a>
-  <a href="https://github.com/nst-sdc/VS-code-Extension">
-    <img src="https://img.shields.io/badge/NST_VSCode_Extension-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  </a>
-  <a href="https://github.com/carbon-design-system/carbon">
-    <img src="https://img.shields.io/badge/Carbon_Design-000000?style=for-the-badge&logo=ibm&logoColor=white"/>
-  </a>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; width: 90%; margin: 0 auto;">
+    <a href="https://github.com/microsoft/vscode">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode&theme=blueberry&show_owner=true"/>
+    </a>
+    <a href="https://github.com/microsoft/vscode-cpptools">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode-cpptools&theme=blueberry&show_owner=true"/>
+    </a>
+    <a href="https://github.com/scribe-org/Scribe-iOS">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=scribe-org&repo=Scribe-iOS&theme=blueberry&show_owner=true"/>
+    </a>
+    <a href="https://github.com/apache/sedona">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=sedona&theme=blueberry&show_owner=true"/>
+    </a>
+    <a href="https://github.com/nst-sdc/VS-code-Extension">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nst-sdc&repo=VS-code-Extension&theme=blueberry&show_owner=true"/>
+    </a>
+    <a href="https://github.com/carbon-design-system/carbon">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=carbon-design-system&repo=carbon&theme=blueberry&show_owner=true"/>
+    </a>
+  </div>
 </div>
 
-<h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">📊 Coding Activity</h2>
+<h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">📊 Live Coding Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subham-KRLX&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subham-KRLX&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" width="90%"/>
+  
+  <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px; flex-wrap: wrap;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Subham-KRLX&theme=onedark&no-frame=true&margin-w=15&row=1&column=4" alt="GitHub Trophies"/>
+  </div>
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=Subham-KRLX&label=Profile+Views&color=00C4FF&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Subham-KRLX&label=Live+Profile+Views&color=00C4FF&style=flat" alt="Profile Views"/>
 </div>
