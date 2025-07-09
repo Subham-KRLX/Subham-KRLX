@@ -45,26 +45,24 @@
 <h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">🔭 Open Source Contributions</h2>
 
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; width: 90%; margin: 0 auto;">
-    <a href="https://github.com/microsoft/vscode">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode&theme=blueberry&show_owner=true"/>
-    </a>
-    <a href="https://github.com/microsoft/vscode-cpptools">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode-cpptools&theme=blueberry&show_owner=true"/>
-    </a>
-    <a href="https://github.com/scribe-org/Scribe-iOS">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=scribe-org&repo=Scribe-iOS&theme=blueberry&show_owner=true"/>
-    </a>
-    <a href="https://github.com/apache/sedona">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=sedona&theme=blueberry&show_owner=true"/>
-    </a>
-    <a href="https://github.com/nst-sdc/VS-code-Extension">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nst-sdc&repo=VS-code-Extension&theme=blueberry&show_owner=true"/>
-    </a>
-    <a href="https://github.com/carbon-design-system/carbon">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=carbon-design-system&repo=carbon&theme=blueberry&show_owner=true"/>
-    </a>
-  </div>
+  <a href="https://github.com/microsoft/vscode">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  </a>
+  <a href="https://github.com/microsoft/vscode-cpptools">
+    <img src="https://img.shields.io/badge/VS_Code_CPP-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  </a>
+  <a href="https://github.com/scribe-org/Scribe-iOS">
+    <img src="https://img.shields.io/badge/Scribe_iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  </a>
+  <a href="https://github.com/apache/sedona">
+    <img src="https://img.shields.io/badge/Apache_Sedona-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nst-sdc/VS-code-Extension">
+    <img src="https://img.shields.io/badge/NST_VSCode_Extension-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  </a>
+  <a href="https://github.com/carbon-design-system/carbon">
+    <img src="https://img.shields.io/badge/Carbon_Design-000000?style=for-the-badge&logo=ibm&logoColor=white"/>
+  </a>
 </div>
 
 <h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">📊 Live Coding Activity</h2>
