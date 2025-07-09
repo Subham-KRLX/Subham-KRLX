@@ -7,10 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Subham-KRLX&show_icons=true&theme=blueberry&hide_border=true&bg_color=0D1117" width="48%"/>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Subham-KRLX/Subham-KRLX/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</div>
-
 <h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">🚀 Technologies & Tools</h2>
 
 <div align="center">
@@ -49,18 +45,37 @@
 <h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">🔭 Open Source Contributions</h2>
 
 <div align="center">
-  <a href="https://github.com/microsoft">
-    <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  </a>
-  <a href="https://github.com/scribe-org">
-    <img src="https://img.shields.io/badge/Scribe_iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
-  </a>
-  <a href="https://github.com/apache/sedona">
-    <img src="https://img.shields.io/badge/Apache_Sedona-000000?style=for-the-badge&logo=apache&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Subham-KRLX/nst-sdc">
-    <img src="https://img.shields.io/badge/NST_SDC-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; width: 90%; margin: 0 auto;">
+    <!-- VS Code -->
+    <a href="https://github.com/microsoft/vscode">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode&theme=blueberry&show_owner=true"/>
+    </a>
+    
+    <!-- VS Code C++ Tools -->
+    <a href="https://github.com/microsoft/vscode-cpptools">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode-cpptools&theme=blueberry&show_owner=true"/>
+    </a>
+    
+    <!-- Scribe iOS -->
+    <a href="https://github.com/scribe-org/Scribe-iOS">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=scribe-org&repo=Scribe-iOS&theme=blueberry&show_owner=true"/>
+    </a>
+    
+    <!-- Apache Sedona -->
+    <a href="https://github.com/apache/sedona">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=sedona&theme=blueberry&show_owner=true"/>
+    </a>
+    
+    <!-- VS Code Extension -->
+    <a href="https://github.com/nst-sdc/VS-code-Extension">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nst-sdc&repo=VS-code-Extension&theme=blueberry&show_owner=true"/>
+    </a>
+    
+    <!-- Carbon Design -->
+    <a href="https://github.com/carbon-design-system/carbon">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=carbon-design-system&repo=carbon&theme=blueberry&show_owner=true"/>
+    </a>
+  </div>
 </div>
 
 <h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">📊 Coding Activity</h2>
