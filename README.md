@@ -1,7 +1,3 @@
-<div align="right" style="margin-bottom: 20px;">
-  <img src="https://i.pinimg.com/736x/ff/75/d2/ff75d2826d2ff666ce852161f7d62ebd.jpg" alt="Profile Image" width="300" style="border-radius: 10px; border: 3px solid #00C4FF;"/>
-</div>
-
 <div align="center">
   <h2 style="text-align: center;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C4FF&width=500&lines=Namaste%F0%9F%99%8F%2C+I'm+Subham+Sangwan;Full-Stack+Developer;Open+Source+Contributor;Competitive+Programmer" alt="Typing SVG" />
@@ -58,13 +54,22 @@
   <a href="https://github.com/apache/sedona">
     <img src="https://img.shields.io/badge/Apache_Sedona-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
   </a>
+  <a href="https://github.com/nst-sdc/VS-code-Extension">
+    <img src="https://img.shields.io/badge/NST_VSCode_Extension-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  </a>
+  <a href="https://github.com/carbon-design-system/carbon">
+    <img src="https://img.shields.io/badge/Carbon_Design-000000?style=for-the-badge&logo=ibm&logoColor=white"/>
+  </a>
 </div>
 
 <h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">📊 Live Coding Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subham-KRLX&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" width="90%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Subham-KRLX&theme=onedark&no-frame=true&margin-w=15&row=1&column=4" alt="GitHub Trophies"/>
+  
+  <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px; flex-wrap: wrap;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Subham-KRLX&theme=onedark&no-frame=true&margin-w=15&row=1&column=4" alt="GitHub Trophies"/>
+  </div>
 </div>
 
 <div align="center" style="margin-top: 20px;">
