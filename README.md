@@ -4,7 +4,29 @@
   </h2>
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Subham-KRLX&theme=blueberry_duo&hide_border=true&background=0D1117" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Subham-KRLX&show_icons=true&theme=blueberry&hide_border=true&bg_color=0D1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Subham-KRLX&show_icons=true&theme=blueberry&hide_border=true&bg_color=0D1117&include_all_commits=true" width="48%"/>
+</div>
+
+<h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">📊 Lifetime Activity</h2>
+
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subham-KRLX&theme=github_dark" width="100%"/>
+  </div>
+  <div style="display: flex; gap: 15px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subham-KRLX&layout=compact&theme=blueberry&hide_border=true&bg_color=0D1117" height="150px"/>
+    <div style="display: flex; flex-direction: column; gap: 10px;">
+      <div style="display: flex; gap: 10px;">
+        <img src="https://img.shields.io/badge/Total%20Commits-1.1k-blue?style=flat-square&logo=github"/>
+        <img src="https://img.shields.io/badge/Total%20PRs-21-blue?style=flat-square&logo=github"/>
+      </div>
+      <div style="display: flex; gap: 10px;">
+        <img src="https://img.shields.io/badge/Total%20Issues-2-blue?style=flat-square&logo=github"/>
+        <img src="https://img.shields.io/badge/Total%20Stars-6-blue?style=flat-square&logo=github"/>
+      </div>
+      <img src="https://img.shields.io/badge/Repos%20Contributed%20To-14-blue?style=flat-square&logo=github" width="100%"/>
+    </div>
+  </div>
 </div>
 
 <h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">🚀 Technologies & Tools</h2>
@@ -45,6 +67,9 @@
 <h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">🔭 Open Source Contributions</h2>
 
 <div align="center">
+  <a href="https://github.com/microsoft/vscode">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  </a>
   <a href="https://github.com/microsoft/vscode-cpptools">
     <img src="https://img.shields.io/badge/VS_Code_CPP-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
@@ -60,12 +85,6 @@
   <a href="https://github.com/carbon-design-system/carbon">
     <img src="https://img.shields.io/badge/Carbon_Design-000000?style=for-the-badge&logo=ibm&logoColor=white"/>
   </a>
-</div>
-
-<h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">📊 Coding Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subham-KRLX&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="90%"/>
 </div>
 
 <div align="center" style="margin-top: 20px;">
