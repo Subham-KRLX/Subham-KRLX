@@ -4,7 +4,7 @@
   </h2>
 </div>
 
-<h3 align="center">Passionate Full-Stack Developer | Competitive Programmer | Tech Enthusiast</h3>
+<h3 align="center">Passionate Full-Stack Developer | Open Source Contributor | Competitive Programmer</h3>
 
 <img align="right" alt="coding" width="370" height="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -21,6 +21,9 @@
   </a>
   <a href="https://www.codechef.com/users/krlx" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="krlx" height="30" width="40" />
+  </a>
+  <a href="https://github.com/Subham-KRLX" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
   </a>
 </p>
 
@@ -67,7 +70,7 @@
   
   <!-- Other Tools -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu-bash/gnu-bash-icon.svg" alt="bash" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFDJLaUHfkk5JOqF2RTfK4m3RgHi3kM7Txw&s" alt="bash" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-creative-cloud-cc.svg" alt="adobe" width="40" height="40"/>
@@ -76,6 +79,19 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" alt="excel" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="left">🌟 Open Source Contributions:</h3>
+<p align="left">
+  I'm proud to have contributed to these notable open-source projects:
+</p>
+<ul align="left">
+  <li><a href="https://github.com/microsoft" target="_blank">Microsoft</a> - Contributed to various Microsoft open-source projects</li>
+  <li><a href="https://github.com/scribe-org" target="_blank">Scribe-iOS</a> - Documentation tool for iOS developers</li>
+  <li><a href="https://github.com/apache/sedona" target="_blank">Apache Sedona</a> - Spatial computing system</li>
+  <li><a href="https://github.com/Subham-KRLX/nst-sdc" target="_blank">NST-SDC</a> - My own open-source project</li>
+</ul>
+
+<p>Check out <a href="https://github.com/Subham-KRLX?tab=repositories" target="_blank">all my repositories</a> for more projects!</p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
