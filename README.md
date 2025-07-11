@@ -44,7 +44,7 @@
   </a>
 </div>
 
-<h2 align="center" style="background: linear-gradient(90deg, #00d4ff, #6a11cb); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700; margin: 30px 0 20px; font-size: 1.8rem; text-transform: uppercase; letter-spacing: 1px;">🔭 Open Source Work</h2>
+<h2 align="center" style="background: linear-gradient(90deg, #00d4ff, #6a11cb); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700; margin: 30px 0 20px; font-size: 1.8rem; text-transform: uppercase; letter-spacing: 1px;">🔭 Open Source Contributions</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; max-width: 900px; margin: 0 auto;">
   <a href="https://github.com/microsoft/vscode-cpptools" style="text-decoration: none;">
@@ -72,12 +72,6 @@
   <div style="display: flex; justify-content: center; gap: 15px; margin-top: 30px; flex-wrap: wrap;">
     <img src="https://github-profile-trophy.vercel.app/?username=Subham-KRLX&theme=onedark&no-frame=true&margin-w=15&row=1&column=4&title=Stars,Commit,PR,Repo" alt="GitHub Trophies"/>
   </div>
-</div>
-
-<div align="center" style="margin: 40px 0 20px;">
-  <a href="https://github.com/Subham-KRLX?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/VIEW_MY_PORTFOLIO-00C4FF?style=for-the-badge&logoColor=white&logo=repo&labelColor=0D1117"/>
-  </a>
 </div>
 
 <div align="center" style="margin-top: 40px;">
