@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 style="text-align: center;">
+  <h2 style="text-align: center; background: linear-gradient(90deg, #00C4FF, #6E00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C4FF&width=500&lines=Namaste%F0%9F%99%8F%2C+I'm+Subham+Sangwan;Full-Stack+Developer;Open+Source+Contributor;Competitive+Programmer" alt="Typing SVG" />
   </h2>
   
@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Subham-KRLX&show_icons=true&theme=blueberry&hide_border=true&bg_color=0D1117&include_all_commits=true" width="48%"/>
 </div>
 
-<h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">🚀 Technologies & Tools</h2>
+<h2 align="center" style="background: linear-gradient(90deg, #00C4FF, #6E00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 600; margin: 20px 0;">🚀 Technologies & Tools</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
-<h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">🌐 Connect With Me</h2>
+<h2 align="center" style="background: linear-gradient(90deg, #00C4FF, #6E00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 600; margin: 20px 0;">🌐 Connect With Me</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/subham-sangwan-592a0a316/">
@@ -42,7 +42,7 @@
   </a>
 </div>
 
-<h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">🔭 Open Source Contributions</h2>
+<h2 align="center" style="background: linear-gradient(90deg, #00C4FF, #6E00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 600; margin: 20px 0;">🔭 Open Source Contributions</h2>
 
 <div align="center">
   <a href="https://github.com/microsoft/vscode-cpptools">
@@ -62,7 +62,7 @@
   </a>
 </div>
 
-<h2 align="center" style="color: #00C4FF; font-weight: 600; margin: 20px 0;">📊 Live Coding Activity</h2>
+<h2 align="center" style="background: linear-gradient(90deg, #00C4FF, #6E00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 600; margin: 20px 0;">📊 Live Coding Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subham-KRLX&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" width="90%"/>
@@ -72,6 +72,6 @@
   </div>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=Subham-KRLX&label=Live+Profile+Views&color=00C4FF&style=flat" alt="Profile Views"/>
+<div align="center" style="margin-top: 30px;">
+  <img src="https://komarev.com/ghpvc/?username=Subham-KRLX&label=PROFILE+VISITORS&color=00C4FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
 </div>
