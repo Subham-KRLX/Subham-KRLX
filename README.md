@@ -1,6 +1,6 @@
-<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 30px; border-radius: 20px; box-shadow: 0 15px 30px rgba(0,0,0,0.3);">
-  <h2 style="text-align: center; background: linear-gradient(90deg, #12c2e9, #c471ed, #f64f59); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.8rem; margin-bottom: 25px; font-weight: 800;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=36&pause=1000&color=12C2E9&width=600&lines=Namaste%F0%9F%99%8F%2C+I'm+Subham+Sangwan;Full-Stack+Developer;Open+Source+Contributor;Competitive+Programmer" alt="Typing SVG" />
+<div align="center" style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); padding: 20px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+  <h2 style="text-align: center; background: linear-gradient(90deg, #00d4ff, #6a11cb); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem; margin-bottom: 20px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00C4FF&width=550&lines=Namaste%F0%9F%99%8F%2C+I'm+Subham+Sangwan;Full-Stack+Developer;Open+Source+Contributor;Competitive+Programmer" alt="Typing SVG" />
   </h2>
   
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
