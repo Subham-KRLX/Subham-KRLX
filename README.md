@@ -59,8 +59,11 @@
   <a href="https://github.com/nst-sdc/VS-code-Extension" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/NST_VSCode_Extension-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=121212"/>
   </a>
-  <a href="https://github.com/carbon-design-system/carbon" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Carbon_Design-000000?style=for-the-badge&logo=ibm&logoColor=white&labelColor=121212"/>
+  <a href="https://github.com/apache/airflow" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white&labelColor=121212"/>
+  </a>
+  <a href="https://github.com/microsoft/MIEngine" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Microsoft_MIEngine-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=121212"/>
   </a>
 </div>
 
