@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&animation=fadeIn" />
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&animation=fadeIn" /> -->
   
   <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=F55FA5&width=550&lines=Namaste%F0%9F%99%8F%2C+I'm+Subham+Sangwan;Full-Stack+Developer;Open+Source+Contributor;Competitive+Programmer" alt="Typing SVG" />
