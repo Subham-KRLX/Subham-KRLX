@@ -1,10 +1,10 @@
 <div align="center">
-  <!-- Header: Original Typing Style -->
+  <!-- Header: Original Typing Style with updated Color -->
   <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=00D1FF&width=550&lines=Namaste%F0%9F%99%8F%2C+I'm+Subham;Full-Stack+Developer;Open+Source+Contributor;Competitive+Programmer" alt="Typing SVG" />
   </h2>
 
-  <!-- Stats Grid: Using high-contrast theme without pink -->
+  <!-- Stats Grid -->
   <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
     <a href="https://github.com/Subham-KRLX">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Subham-KRLX&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats"/>
@@ -14,14 +14,15 @@
     </a>
   </div>
 
+  <!-- FIXED: GitHub Trophies (Reverted to stable Radical theme) -->
   <div style="margin-top: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=Subham-KRLX&theme=tokyonight&no-frame=true&margin-w=20&row=1&column=4&title=Stars,Commit,PR,Repo" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Subham-KRLX&theme=radical&no-frame=true&margin-w=20&row=1&column=4" alt="GitHub Trophies"/>
   </div>
 </div>
 
-<hr />
+<!-- Modern Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=1,00d1ff,79ff71" width="100%" />
 
-<!-- Tech Stack: Restored to original shield style -->
 <h2 align="center" style="margin: 40px 0 25px;">🚀 Tech Stack</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; max-width: 1000px; margin: 0 auto;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -39,9 +40,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
-<hr />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=1,00d1ff,79ff71" width="100%" />
 
-<!-- Open Source Section -->
 <h2 align="center" style="margin: 40px 0 25px;">🔭 Open Source Work</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; max-width: 1000px; margin: 0 auto;">
   <a href="https://github.com/microsoft/vscode-cpptools"><img src="https://img.shields.io/badge/VS_Code_CPP-1572B6?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
@@ -52,7 +52,7 @@
   <a href="https://github.com/microsoft/MIEngine"><img src="https://img.shields.io/badge/MS_MIEngine-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
 </div>
 
-<hr />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=1,00d1ff,79ff71" width="100%" />
 
 <h2 align="center" style="margin: 40px 0 25px;">🌍 Connect With Me</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
@@ -62,9 +62,8 @@
   <a href="https://www.codechef.com/users/krlx"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </div>
 
-<hr />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=1,00d1ff,79ff71" width="100%" />
 
-<!-- Activity Graph: Updated to Cyan theme (No pink) -->
 <h2 align="center" style="margin: 40px 0 25px;">📈 Activity Stream</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subham-KRLX&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contributions%20Flow&color=00d1ff&line=00d1ff&point=ffffff" width="95%"/>
