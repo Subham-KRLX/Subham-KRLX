@@ -3,7 +3,6 @@
   <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=00D1FF&width=550&lines=Namaste%F0%9F%99%8F%2C+I'm+Subham;Full-Stack+Developer;Open+Source+Contributor;Competitive+Programmer" alt="Typing SVG" />
   </h2>
-  <!-- Stats Grid -->
   <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
     <a href="https://github.com/Subham-KRLX">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Subham-KRLX&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats"/>
