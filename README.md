@@ -11,7 +11,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Subham-KRLX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
     </a>
   </div>
-
   <!-- FIXED: GitHub Trophies (Reverted to stable Radical theme) -->
   <div style="margin-top: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=Subham-KRLX&theme=radical&no-frame=true&margin-w=20&row=1&column=4" alt="GitHub Trophies"/>
