@@ -16,7 +16,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Subham-KRLX&theme=radical&no-frame=true&margin-w=20&row=1&column=4" alt="GitHub Trophies"/>
   </div>
 </div>
-
 <!-- Modern Gradient Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=1,00d1ff,79ff71" width="100%" />
 
