@@ -6,16 +6,16 @@
   </h2>
   <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
     <a href="https://github.com/Subham-KRLX">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Subham-KRLX&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats"/>
+      <img src="https://streak-stats.demolab.com?user=Subham-KRLX&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats"/>
     </a>
     <a href="https://github.com/Subham-KRLX">
-      <img src="https://github-readme-stats.vercel.app/api?username=Subham-KRLX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Subham-KRLX&theme=tokyonight" width="48%" alt="GitHub Stats"/>
     </a>
   </div>
   
   <!-- FIXED: GitHub Trophies (Reverted to stable Radical theme) -->
   <div style="margin-top: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=Subham-KRLX&theme=radical&no-frame=true&margin-w=20&row=1&column=4" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy-rust.vercel.app/?username=Subham-KRLX&theme=radical&no-frame=true&margin-w=20&row=1&column=4" alt="GitHub Trophies"/>
   </div>
 </div>
 
