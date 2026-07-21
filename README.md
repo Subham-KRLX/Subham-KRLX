@@ -6,7 +6,10 @@
   </h2>
   <p align="center">
     <strong>Open Source Impact</strong><br/><br/>
-    <img src="https://img.shields.io/badge/2026_Public_Commits-668-F6C85F?style=for-the-badge&logo=git&logoColor=black" alt="668 public commit contributions in 2026"/>
+    <!-- yearly-commits:start -->
+    <img src="https://img.shields.io/badge/2026_Public_Commits-669-F6C85F?style=for-the-badge&logo=git&logoColor=black" alt="669 public commit contributions in 2026"/>
+    <img src="https://img.shields.io/badge/All_Time_Public_Commits-1002-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="1002 all-time public commit contributions"/>
+    <!-- yearly-commits:end -->
     <img src="https://img.shields.io/badge/Public_PRs-197-00D1FF?style=for-the-badge&logo=github&logoColor=white" alt="197 public pull requests"/>
     <img src="https://img.shields.io/badge/Merged_PRs-104-79FF71?style=for-the-badge&logo=git&logoColor=black" alt="104 merged pull requests"/>
     <img src="https://img.shields.io/badge/Apache_PRs-79-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="79 Apache pull requests"/>
