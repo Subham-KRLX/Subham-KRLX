@@ -4,14 +4,13 @@
     
     
   </h2>
-  <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
-    <a href="https://github.com/Subham-KRLX">
-      <img src="https://streak-stats.demolab.com?user=Subham-KRLX&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats"/>
-    </a>
-    <a href="https://github.com/Subham-KRLX">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Subham-KRLX&theme=tokyonight" width="48%" alt="GitHub Stats"/>
-    </a>
-  </div>
+  <p align="center">
+    <strong>Open Source Impact</strong><br/><br/>
+    <img src="https://img.shields.io/badge/Public_PRs-197-00D1FF?style=for-the-badge&logo=github&logoColor=white" alt="197 public pull requests"/>
+    <img src="https://img.shields.io/badge/Merged_PRs-104-79FF71?style=for-the-badge&logo=git&logoColor=black" alt="104 merged pull requests"/>
+    <img src="https://img.shields.io/badge/Apache_PRs-79-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="79 Apache pull requests"/>
+    <img src="https://img.shields.io/badge/Microsoft_PRs-10-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="10 Microsoft pull requests"/>
+  </p>
   
   <!-- FIXED: GitHub Trophies (Reverted to stable Radical theme) -->
   <div style="margin-top: 10px;">
