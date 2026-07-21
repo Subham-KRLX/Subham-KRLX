@@ -12,8 +12,6 @@
     <!-- yearly-commits:end -->
     <img src="https://img.shields.io/badge/Public_PRs-197-00D1FF?style=for-the-badge&logo=github&logoColor=white" alt="197 public pull requests"/>
     <img src="https://img.shields.io/badge/Merged_PRs-104-79FF71?style=for-the-badge&logo=git&logoColor=black" alt="104 merged pull requests"/>
-    <img src="https://img.shields.io/badge/Apache_PRs-79-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="79 Apache pull requests"/>
-    <img src="https://img.shields.io/badge/Microsoft_PRs-10-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="10 Microsoft pull requests"/>
   </p>
   
   <!-- FIXED: GitHub Trophies (Reverted to stable Radical theme) -->
