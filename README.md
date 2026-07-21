@@ -1,21 +1,21 @@
 <div align="center">
   <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=FF6B6B&width=550&lines=Namaste%F0%9F%99%8F%2C+I'm+Subham;Full-Stack+Developer;Open+Source+Contributor;Competitive+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=00D1FF&width=550&lines=Namaste%F0%9F%99%8F%2C+I'm+Subham;Full-Stack+Developer;Open+Source+Contributor;Competitive+Programmer" alt="Typing SVG" />
     
     
   </h2>
   <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
     <a href="https://github.com/Subham-KRLX">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Subham-KRLX&theme=2077&utcOffset=5.5" width="48%" alt="Productive Hours"/>
+      <img src="https://streak-stats.demolab.com?user=Subham-KRLX&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats"/>
     </a>
     <a href="https://github.com/Subham-KRLX">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Subham-KRLX&theme=2077" width="48%" alt="GitHub Stats"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Subham-KRLX&theme=tokyonight" width="48%" alt="GitHub Stats"/>
     </a>
   </div>
   
-  <!-- GitHub trophies -->
+  <!-- FIXED: GitHub Trophies (Reverted to stable Radical theme) -->
   <div style="margin-top: 10px;">
-    <img src="https://github-profile-trophy-rust.vercel.app/?username=Subham-KRLX&theme=alduin&no-frame=true&margin-w=20&row=1&column=4" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy-rust.vercel.app/?username=Subham-KRLX&theme=radical&no-frame=true&margin-w=20&row=1&column=4" alt="GitHub Trophies"/>
   </div>
 </div>
 
