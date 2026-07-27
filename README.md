@@ -5,8 +5,8 @@
   <p align="center">
     <strong>Open Source Impact</strong><br/><br/>
     <!-- yearly-commits:start -->
-    <img src="https://img.shields.io/badge/2026_Public_Commits-695-F6C85F?style=for-the-badge&logo=git&logoColor=black" alt="695 public commit contributions in 2026"/>
-    <img src="https://img.shields.io/badge/All_Time_Public_Commits-1028-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="1028 all-time public commit contributions"/>
+    <img src="https://img.shields.io/badge/2026_Public_Commits-700-F6C85F?style=for-the-badge&logo=git&logoColor=black" alt="700 public commit contributions in 2026"/>
+    <img src="https://img.shields.io/badge/All_Time_Public_Commits-1033-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="1033 all-time public commit contributions"/>
     <!-- yearly-commits:end -->
     <img src="https://img.shields.io/badge/Public_PRs-197-00D1FF?style=for-the-badge&logo=github&logoColor=white" alt="197 public pull requests"/>
     <img src="https://img.shields.io/badge/Merged_PRs-104-79FF71?style=for-the-badge&logo=git&logoColor=black" alt="104 merged pull requests"/>
