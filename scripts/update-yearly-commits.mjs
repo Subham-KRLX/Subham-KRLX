@@ -2,7 +2,6 @@ import { readFile, writeFile } from 'node:fs/promises';
 
 const login = process.env.GITHUB_LOGIN || 'Subham-KRLX';
 const token = process.env.GH_TOKEN;
-
 if (!token) {
   throw new Error('GH_TOKEN is required');
 }
