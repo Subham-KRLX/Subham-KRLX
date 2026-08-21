@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/Public_PRs-197-00D1FF?style=for-the-badge&logo=github&logoColor=white" alt="197 public pull requests"/>
     <img src="https://img.shields.io/badge/Merged_PRs-104-79FF71?style=for-the-badge&logo=git&logoColor=black" alt="104 merged pull requests"/>
   </p>
-  
   <!-- FIXED: GitHub Trophies (Reverted to stable Radical theme) -->
   <div style="margin-top: 10px;">
     <img src="https://github-profile-trophy-rust.vercel.app/?username=Subham-KRLX&theme=radical&no-frame=true&margin-w=20&row=1&column=4" alt="GitHub Trophies"/>
