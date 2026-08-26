@@ -5,7 +5,6 @@
   </h2>
   <p align="center">
     <strong>Open Source Impact</strong><br/><br/>
-    <!-- yearly-commits:start -->
     <img src="https://img.shields.io/badge/2026_Public_Commits-776-F6C85F?style=for-the-badge&logo=git&logoColor=black" alt="776 public commit contributions in 2026"/>
     <img src="https://img.shields.io/badge/All_Time_Public_Commits-1109-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="1109 all-time public commit contributions"/>
     <!-- yearly-commits:end -->
