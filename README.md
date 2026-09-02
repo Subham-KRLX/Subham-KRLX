@@ -98,7 +98,7 @@
 
 <h2 align="center" style="margin: 40px 0 25px;">📈 Activity Stream</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subham-KRLX&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contributions%20Flow&color=00d1ff&line=00d1ff&point=ffffff" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subham-KRLX&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contributions%20Flow&color=00d1ff&line=00d1ff&point=ffffff" alt="Subham's contribution activity graph" width="95%"/>
 </div>
 
 <div align="center" style="margin-top: 50px;">
