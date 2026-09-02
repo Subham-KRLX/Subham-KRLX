@@ -17,7 +17,7 @@
   </div>
 </div>
 
-<!-- Modern Gradient Divider -->
+<!-- Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=1,00d1ff,79ff71" width="100%" />
 
 <h2 align="center" style="margin: 40px 0 25px;">🚀 Tech Stack</h2>
