@@ -76,7 +76,7 @@
 
 <h2 align="center" style="margin: 40px 0 25px;">🔭 Open Source Work</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; max-width: 1000px; margin: 0 auto;">
-  <a href="https://github.com/microsoft/vscode-cpptools"><img src="https://img.shields.io/badge/VS_Code_CPP-1572B6?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+  <a href="https://github.com/microsoft/vscode-cpptools"><img src="https://img.shields.io/badge/VS_Code_CPP-1572B6?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code C++"/></a>
   <a href="https://github.com/scribe-org/Scribe-iOS"><img src="https://img.shields.io/badge/Scribe_iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
   <a href="https://github.com/apache/sedona"><img src="https://img.shields.io/badge/Apache_Sedona-D22128?style=for-the-badge&logo=apache&logoColor=white"/></a>
   <a href="https://github.com/nst-sdc/VS-code-Extension"><img src="https://img.shields.io/badge/NST_Extension-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
