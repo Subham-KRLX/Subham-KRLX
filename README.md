@@ -80,7 +80,7 @@
   <a href="https://github.com/scribe-org/Scribe-iOS"><img src="https://img.shields.io/badge/Scribe_iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Scribe iOS"/></a>
   <a href="https://github.com/apache/sedona"><img src="https://img.shields.io/badge/Apache_Sedona-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Sedona"/></a>
   <a href="https://github.com/nst-sdc/VS-code-Extension"><img src="https://img.shields.io/badge/NST_Extension-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="NST VS Code Extension"/></a>
-  <a href="https://github.com/apache/airflow"><img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/></a>
+  <a href="https://github.com/apache/airflow"><img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow"/></a>
   <a href="https://github.com/microsoft/MIEngine"><img src="https://img.shields.io/badge/MS_MIEngine-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
 </div>
 
