@@ -91,7 +91,7 @@
   <a href="https://www.linkedin.com/in/subham-sangwan-592a0a316/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
   <a href="mailto:subhamsangwan@adypu.edu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Subham"/></a>
   <a href="https://codeforces.com/profile/KRLX"><img src="https://img.shields.io/badge/Codeforces-445f69?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile"/></a>
-  <a href="https://www.codechef.com/users/krlx"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/krlx"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile"/></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=1,00d1ff,79ff71" width="100%" />
